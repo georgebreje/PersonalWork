@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agriculture", "Agriculture.csproj", "{9973C2D6-40EE-4FD2-8160-EA6FFA1A00B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketSimulation", "MarketSimulation.csproj", "{4273098C-1152-4A7B-A003-08600DEAC381}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9973C2D6-40EE-4FD2-8160-EA6FFA1A00B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9973C2D6-40EE-4FD2-8160-EA6FFA1A00B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9973C2D6-40EE-4FD2-8160-EA6FFA1A00B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9973C2D6-40EE-4FD2-8160-EA6FFA1A00B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4273098C-1152-4A7B-A003-08600DEAC381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4273098C-1152-4A7B-A003-08600DEAC381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4273098C-1152-4A7B-A003-08600DEAC381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4273098C-1152-4A7B-A003-08600DEAC381}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2DE11852-2084-4607-A4A1-41B4064744CE}
+		SolutionGuid = {B1F2DF6B-EC2E-4023-B87E-93F83761F5D3}
 	EndGlobalSection
 EndGlobal

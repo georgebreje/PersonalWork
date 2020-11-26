@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9973C2D6-40EE-4FD2-8160-EA6FFA1A00B7}</ProjectGuid>
+    <ProjectGuid>{4273098C-1152-4A7B-A003-08600DEAC381}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Agriculture</RootNamespace>
-    <AssemblyName>Agriculture</AssemblyName>
+    <RootNamespace>MarketSimulation</RootNamespace>
+    <AssemblyName>MarketSimulation</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
