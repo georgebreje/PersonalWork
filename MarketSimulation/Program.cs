@@ -44,7 +44,7 @@ namespace MarketSimulation
         Customer Decision = new Customer();
         public Customer()
         {
-            Decision = Choice.EntryChoiceAction();
+            //Decision = Choice.EntryChoiceAction();
         }
     }
     public class Choice
@@ -52,7 +52,7 @@ namespace MarketSimulation
         Choice EntryChoice = new Choice();
         public Choice()
         {
-            EntryChoice = EntryChoiceAction();
+            //EntryChoice = EntryChoiceAction();
         }
         public static void EntryChoiceAction()
         {
